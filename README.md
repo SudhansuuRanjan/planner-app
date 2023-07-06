@@ -1,6 +1,6 @@
 # Planner App
 
-[Live Site URL](https://spectre-7-featuresection.web.app/)
+[Live Site URL](https://spectre-7-planner-app.vercel.app/)
 
 ## Description
 
